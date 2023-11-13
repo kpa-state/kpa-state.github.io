@@ -1,0 +1,29 @@
+body {
+    background-color: #333; /* Dark background color */
+    color: #eee; /* Light text color for good contrast */
+    font-family: 'Arial', sans-serif; /* Choose a readable font */
+    line-height: 1.6; /* Adjust line height for better readability */
+}
+
+/* Add styles for other elements as needed */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffcc00; /* Yellowish text color for headings */
+}
+
+a {
+    color: #4CAF50; /* Green text color for links */
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+/* Image styles */
+header img {
+    width: 180px; 
+    height: auto; 
+    margin-left: 10px; 
+}
